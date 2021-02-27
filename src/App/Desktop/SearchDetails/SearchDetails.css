@@ -1,0 +1,30 @@
+.SearchDetailsContainer {
+  display: flex;
+  align-items: center;
+  flex-direction: row;
+  width: 100%;
+  height: 22px;
+}
+
+.SearchDetailsContainer div {
+  font-size: calc(8px + 1.1vmin);
+  color: #dddddd;
+}
+
+@media screen and (min-width: 1400px) {
+  .SearchDetailsContainer {
+    font-size: 25px;
+  }
+}
+
+.ShowingLabel {
+  margin-left: 16px;
+}
+
+.SearchDivider {
+  width: 1px;
+  height: 100%;
+  margin-left: 16px;
+  margin-right: 16px;
+  background-color: #888888;
+}

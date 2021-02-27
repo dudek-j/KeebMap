@@ -1,0 +1,126 @@
+.List {
+  margin-top: 16px;
+  max-height: 65%;
+  width: calc(100% - 32px);
+  padding-right: 16px;
+  padding-left: 16px;
+  height: 60vmin;
+  overflow: auto;
+}
+
+.List .ListItem:first-of-type {
+  margin-top: 0;
+}
+
+.ListItem {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+
+  margin-bottom: 16px;
+  margin-top: 16px;
+  min-height: 40px;
+  height: 4.5vmin;
+  max-height: 60px;
+  width: fit-content;
+
+  padding-left: 10px;
+  padding-right: 10px;
+
+  background-color: #ffffff;
+  color: black;
+
+  cursor: pointer;
+
+  transition: all 0.2s ease-out;
+}
+
+.ListItem:hover {
+  background-color: #d15f43;
+}
+
+.HighLightItem {
+  height: 5vw;
+  max-height: 65px;
+}
+
+.ListItemRow {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.HiglightItemDetail {
+  font-weight: 700;
+  font-size: calc(1vmin);
+  color: #d15f43;
+  margin-bottom: 3px;
+}
+
+@media screen and (min-width: 1400px) {
+  .HiglightItemDetail {
+    font-size: 11px;
+  }
+}
+
+.ListItemWebsite {
+  margin-right: 10px;
+  white-space: nowrap;
+  font-size: calc(7px + 1vw);
+}
+
+@media screen and (min-width: 1400px) {
+  .ListItemWebsite {
+    font-size: 25px;
+  }
+}
+
+.ListItemCountry {
+  display: flex;
+  align-items: center;
+  font-size: calc(2px + 1vmin);
+  font-weight: 900;
+  margin-right: 10px;
+}
+
+@media screen and (min-width: 1400px) {
+  .ListItemCountry {
+    font-size: 15px;
+  }
+}
+
+.ListItemArrow {
+  height: 100%;
+  display: flex;
+  align-items: center;
+}
+
+.LoadingContainer {
+  display: flex;
+  height: 30%;
+  justify-content: center;
+  align-items: center;
+}
+
+::-webkit-scrollbar {
+  width: 10px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  border-radius: 8px;
+  background: #555;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+  border-radius: 8px;
+  background: #f1f1f1;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: #888;
+}

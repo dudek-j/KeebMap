@@ -1,0 +1,46 @@
+.BarContainer {
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  align-items: center;
+
+  width: calc(90%);
+
+  padding-bottom: 5px;
+
+  margin-left: 16px;
+  margin-bottom: 16px;
+
+  border: 0;
+  border-bottom: 1px;
+  border-color: #dddddd;
+  border-style: solid;
+}
+
+.SearchIcon {
+  height: calc(10px + 1.3vmin);
+  width: calc(10px + 1.3vmin);
+}
+
+.SearchField {
+  padding-left: 10px;
+  display: flex;
+  flex-grow: 1;
+  height: 30px;
+  background-color: transparent;
+  border: 0;
+  color: white;
+  caret-color: #d15f43;
+
+  font-size: calc(10px + 1.1vmin);
+}
+
+@media screen and (min-width: 1400px) {
+  .SearchField {
+    font-size: 24px;
+  }
+}
+
+.SearchField:focus {
+  outline: 0;
+}

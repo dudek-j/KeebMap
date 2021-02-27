@@ -1,0 +1,14 @@
+.Mobile {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  height: calc(100vh - 32px);
+  width: calc(100vw - 32px);
+  padding: 16px;
+}
+
+.Mobile p {
+  color: white;
+  text-align: center;
+}

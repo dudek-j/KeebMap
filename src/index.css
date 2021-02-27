@@ -1,0 +1,36 @@
+@font-face {
+  font-family: 'GothamPro';
+  font-weight: 900;
+  src: local('GothamPro'),
+    url(./Fonts/GothamPro/GothaProBla.otf) format('opentype');
+}
+
+@font-face {
+  font-family: 'GothamPro';
+  font-weight: 600;
+  src: local('GothamPro'),
+    url(./Fonts/GothamPro/GothaProReg.otf) format('opentype');
+}
+
+@font-face {
+  font-family: 'GothamPro';
+  font-weight: 700;
+  src: local('GothamPro'),
+    url(./Fonts/GothamPro/GothaProMed.otf) format('opentype');
+}
+
+body {
+  background-color: #212121;
+  margin: 0;
+  font-weight: 600;
+  font-family: GothamPro, -apple-system, BlinkMacSystemFont, 'Segoe UI',
+    'Roboto', 'Oxygen', 'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans',
+    'Helvetica Neue', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}

@@ -1,0 +1,140 @@
+.App {
+  background-color: #212121;
+  min-height: 100vh;
+  min-width: 100vw;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.Header-Container {
+  z-index: 2;
+  position: absolute;
+  top: 0;
+  width: 100%;
+  height: 150px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  pointer-events: none;
+  background-color: transparent;
+}
+
+.Header {
+  display: flex;
+  align-items: center;
+  margin-left: 20px;
+  height: 100%;
+  width: 100%;
+  max-width: 1800px;
+}
+
+.Header h3 {
+  background-color: #d15f43;
+  font-size: calc(20px + 1.3vw);
+  font-weight: 900;
+  color: #18181b;
+  padding-top: 10px;
+  padding-bottom: 7px;
+  padding-left: 10px;
+  padding-right: 6px;
+}
+
+@media screen and (min-width: 1400px) {
+  .Header h3 {
+    font-size: 40px;
+  }
+}
+
+.Footer-Container {
+  z-index: 2;
+  position: absolute;
+  bottom: 0;
+  min-width: 100vw;
+  height: 40px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.Footer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-left: 20px;
+  height: 100%;
+  width: 100%;
+  margin-bottom: 20px;
+}
+
+.Footer p {
+  margin-left: 20px;
+  margin-right: 20px;
+  font-size: calc(5px + 1vw);
+  color: #888888;
+}
+
+@media screen and (min-width: 900px) {
+  .Footer p {
+    font-size: 14px;
+  }
+}
+
+.Footer a {
+  margin-left: 20px;
+  margin-right: 20px;
+  font-size: calc(5px + 1vw);
+  color: #888888;
+}
+
+@media screen and (min-width: 900px) {
+  .Footer a {
+    font-size: 14px;
+  }
+}
+
+.Blocker {
+  width: 1px;
+  height: 60%;
+  background-color: #888888;
+}
+
+.Site-Container {
+  z-index: 1;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  width: 100%;
+  max-width: 1800px;
+  min-height: 100vh;
+}
+
+.Map-Container {
+  min-height: 100vh;
+  padding-left: 20px;
+  width: calc(55%);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.List-Container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+
+  max-height: 1000px;
+  min-width: calc(44% - 48px);
+
+  padding-left: 16px;
+  padding-right: 16px;
+
+  margin-right: 16px;
+
+  overflow: hidden;
+}
