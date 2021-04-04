@@ -1,35 +1,37 @@
 .App {
+  height: 100vh;
+  min-width: 700px;
+  min-height: 500px;
+
+  padding-left: 20px;
+  padding-right: 20px;
+
   background-color: #212121;
-  min-height: 100vh;
-  min-width: 100vw;
+
   display: flex;
   flex-direction: column;
   align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
 }
 
-.Header-Container {
-  z-index: 2;
+.HorizontalContentFill {
+  width: 100%;
+  max-width: 1800px;
+}
+
+.HeaderContainer {
   position: absolute;
   top: 0;
-  width: 100%;
-  height: 150px;
+
   display: flex;
   justify-content: center;
-  align-items: center;
-  pointer-events: none;
-  background-color: transparent;
 }
 
 .Header {
+  flex: 1;
+  padding-left: 20px;
+
   display: flex;
   align-items: center;
-  margin-left: 20px;
-  height: 100%;
-  width: 100%;
-  max-width: 1800px;
 }
 
 .Header h3 {
@@ -49,25 +51,43 @@
   }
 }
 
-.Footer-Container {
-  z-index: 2;
-  position: absolute;
-  bottom: 0;
-  min-width: 100vw;
-  height: 40px;
+.ContentContainer {
+  z-index: 1;
+  flex: 1;
+
+  display: grid;
+  grid-template-rows: 100%;
+  grid-template-columns: 58% 42%;
+}
+
+.MapContainer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.ListContainer {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.FooterContainer {
   display: flex;
   justify-content: center;
   align-items: center;
 }
 
 .Footer {
+  height: 100%;
+  width: 100%;
+  padding-bottom: 10px;
+
   display: flex;
   justify-content: center;
   align-items: center;
-  margin-left: 20px;
-  height: 100%;
-  width: 100%;
-  margin-bottom: 20px;
 }
 
 .Footer p {
@@ -98,43 +118,6 @@
 
 .Blocker {
   width: 1px;
-  height: 60%;
+  height: 50%;
   background-color: #888888;
-}
-
-.Site-Container {
-  z-index: 1;
-  display: flex;
-  flex-direction: row;
-  align-items: center;
-  width: 100%;
-  max-width: 1800px;
-  min-height: 100vh;
-}
-
-.Map-Container {
-  min-height: 100vh;
-  padding-left: 20px;
-  width: calc(55%);
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-}
-
-.List-Container {
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
-
-  max-height: 1000px;
-  min-width: calc(44% - 48px);
-
-  padding-left: 16px;
-  padding-right: 16px;
-
-  margin-right: 16px;
-
-  overflow: hidden;
 }

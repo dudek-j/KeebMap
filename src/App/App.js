@@ -8,7 +8,7 @@ import { openInNewTab, allValuesFalse } from './Utility';
 
 function App({ data }) {
   const [searchQuery, setSearchQuery] = useState('');
-  const [selectedRegions, setSelectedRegions] = useState({
+  const [mapState, setMapState] = useState({
     europe: false,
     uk: false,
     canada: false,
@@ -52,12 +52,12 @@ function App({ data }) {
   }
 
   function onListItemSelcted(item) {
-    Analytics.logSelectedItem(item, selectedRegions);
+    Analytics.logSelectedItem(item, mapState);
     openInNewTab(item.url);
   }
 
-  function selectRegion(region) {
-    const copy = { ...selectedRegions };
+  function onRegionSelected(region) {
+    const copy = { ...mapState };
 
     //Set all not pressed to false
     Object.keys(copy).forEach((v) => {
@@ -67,25 +67,25 @@ function App({ data }) {
     });
 
     //Toggle the pressed region
-    const val = !selectedRegions[region];
+    const val = !mapState[region];
 
     copy[region] = val;
-    setSelectedRegions(copy);
+    setMapState(copy);
     val && Analytics.logSetRegion(region);
   }
 
-  const processedData = filterData(selectedRegions, searchQuery);
-  const selectedRegion = Object.entries(selectedRegions).find((e) => e[1]);
+  const processedData = filterData(mapState, searchQuery);
+  const selectedRegion = Object.entries(mapState).find((e) => e[1]);
 
   return isMobile ? (
     <Mobile />
   ) : (
     <Desktop
       data={processedData}
-      highlightItems={!allValuesFalse(selectedRegions)}
+      highlightItems={!allValuesFalse(mapState)}
       onItemSelected={onListItemSelcted}
-      selectedRegions={selectedRegions}
-      onRegeionSelection={selectRegion}
+      mapRegions={mapState}
+      onRegionSelected={onRegionSelected}
       onSearchChange={setSearchQuery}
       selectRegion={selectedRegion && selectedRegion[0]}
     />

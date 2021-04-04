@@ -1,15 +1,11 @@
 .List {
+  width: 100%;
+  height: 60vmin;
+
   margin-top: 16px;
-  max-height: 65%;
-  width: calc(100% - 32px);
   padding-right: 16px;
   padding-left: 16px;
-  height: 60vmin;
   overflow: auto;
-}
-
-.List .ListItem:first-of-type {
-  margin-top: 0;
 }
 
 .ListItem {
@@ -19,13 +15,13 @@
 
   margin-bottom: 16px;
   margin-top: 16px;
+  padding-left: 10px;
+  padding-right: 10px;
+
   min-height: 40px;
   height: 4.5vmin;
   max-height: 60px;
   width: fit-content;
-
-  padding-left: 10px;
-  padding-right: 10px;
 
   background-color: #ffffff;
   color: black;
@@ -33,6 +29,10 @@
   cursor: pointer;
 
   transition: all 0.2s ease-out;
+}
+
+.List .ListItem:first-of-type {
+  margin-top: 0;
 }
 
 .ListItem:hover {
@@ -108,8 +108,6 @@
 
 /* Track */
 ::-webkit-scrollbar-track {
-  margin-top: 20px;
-  margin-bottom: 20px;
   border-radius: 8px;
   background: #555;
 }

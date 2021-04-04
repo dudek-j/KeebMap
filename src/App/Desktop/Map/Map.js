@@ -1,4 +1,3 @@
-import './Map.css';
 import React, { useState } from 'react';
 
 function Map({ selectedRegions, onRegeionSelection }) {

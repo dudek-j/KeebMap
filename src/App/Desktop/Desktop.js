@@ -8,26 +8,26 @@ function Desktop({
   data,
   highlightItems,
   selectRegion,
-  selectedRegions,
+  mapRegions,
   onItemSelected,
-  onRegeionSelection,
+  onRegionSelected,
   onSearchChange,
 }) {
   return (
     <div className="App">
-      <div className="Header-Container">
+      <div className="HeaderContainer HorizontalContentFill">
         <div className="Header">
           <h3>keebmap.</h3>
         </div>
       </div>
-      <div className="Site-Container">
-        <div className="Map-Container">
+      <div className="ContentContainer HorizontalContentFill">
+        <div className="MapContainer">
           <Map
-            selectedRegions={selectedRegions}
-            onRegeionSelection={onRegeionSelection}
+            selectedRegions={mapRegions}
+            onRegeionSelection={onRegionSelected}
           />
         </div>
-        <div className="List-Container">
+        <div className="ListContainer">
           <SearchBar onSearchChange={onSearchChange} />
           <SearchDetails searchCount={data.length} region={selectRegion} />
           <List
@@ -37,7 +37,7 @@ function Desktop({
           />
         </div>
       </div>
-      <div className="Footer-Container">
+      <div className="FooterContainer HorizontalContentFill">
         <div className="Footer">
           <p>© 2021 dudek & sjöstrand</p>
           <div className="Blocker" />
