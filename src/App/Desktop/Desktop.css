@@ -127,3 +127,20 @@
   height: 50%;
   background-color: #888888;
 }
+
+.FooterIcons {
+  display: flex;
+  flex-direction: row;
+}
+
+.FooterIcons a {
+  margin: 0;
+  margin-left: 15px;
+  margin-right: 2px;
+  padding-top: 3px;
+}
+
+.FooterIcons svg {
+  height: calc(5px + 1vmin);
+  width: calc(5px + 1vmin);
+}
