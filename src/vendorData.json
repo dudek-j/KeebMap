@@ -129,6 +129,12 @@
     "hide": true
   },
   {
+    "name": "Checkerboards",
+    "url": "https://www.checkerboards.xyz/",
+    "country": "us",
+    "region": "us"
+  },
+  {
     "name": "Clark Kable",
     "url": "https://www.clarkkable.com",
     "country": "de",
@@ -796,6 +802,12 @@
     "region": "oceania"
   },
   {
+    "name": "Rainkeebs",
+    "url": "https://www.rainkeebs.mx/",
+    "country": "us",
+    "region": "us"
+  },
+  {
     "name": "Rectangles",
     "url": "https://rectangles.store/",
     "country": "in",
@@ -1019,6 +1031,12 @@
   {
     "name": "Upgrade Keyboards",
     "url": "https://www.upgradekeyboards.com",
+    "country": "us",
+    "region": "us"
+  },
+  {
+    "name": "Vala Supply",
+    "url": "https://vala.supply/",
     "country": "us",
     "region": "us"
   },
