@@ -577,6 +577,12 @@
     "region": "us"
   },
   {
+    "name": "Maxgaming",
+    "url": "https://www.maxgaming.se/",
+    "country": "se",
+    "region": "europe"
+  },
+  {
     "name": "MAX Keyboard",
     "url": "https://www.maxkeyboard.com",
     "country": "us",
