@@ -373,6 +373,12 @@
     "region": "asia"
   },
   {
+    "name": "kbnordic",
+    "url": "https://kbnordic.se/",
+    "country": "se",
+    "region": "europe"
+  },
+  {
     "name": "Kebo",
     "url": "https://www.kebo.store",
     "country": "us",
