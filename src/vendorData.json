@@ -960,6 +960,12 @@
     "region": "us"
   },
   {
+    "name": "SwitchHub",
+    "url": "https://switchhub.net/",
+    "country": "de",
+    "region": "europe"
+  },
+  {
     "name": "SwitchKeys",
     "url": "https://www.switchkeys.com.au",
     "country": "au",
