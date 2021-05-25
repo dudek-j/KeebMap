@@ -14,5 +14,3 @@ jobs:
           repoToken: '${{ secrets.GITHUB_TOKEN }}'
           firebaseServiceAccount: '${{ secrets.FIREBASE_SERVICE_ACCOUNT_KEEBMAP_3B599 }}'
           projectId: keebmap-3b599
-        env:
-          FIREBASE_CLI_PREVIEWS: hostingchannels
