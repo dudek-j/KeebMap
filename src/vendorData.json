@@ -403,6 +403,12 @@
     "region": "us"
   },
   {
+    "name": "KeebMonkey",
+    "url": "https://www.keebmonkey.com/",
+    "country": "cn",
+    "region": "china"
+  },
+  {
     "name": "KeebNerd",
     "url": "https://www.keebnerd.com",
     "country": "us",
@@ -684,6 +690,12 @@
     "url": "https://www.mkultra.click",
     "country": "us",
     "region": "us"
+  },
+  {
+    "name": "Momoka",
+    "url": "https://www.momoka.co/",
+    "country": "cn",
+    "region": "china"
   },
   {
     "name": "Monokei",
