@@ -460,6 +460,13 @@
     "region": "oceania"
   },
   {
+    "name": "Keycables",
+    "url": "https://www.keycables.de/",
+    "country": "de",
+    "region": "europe"
+  },
+
+  {
     "name": "Keycult",
     "url": "https://www.keycult.com",
     "country": "us",
