@@ -73,6 +73,12 @@
     "region": "us"
   },
   {
+    "name": "BeyondCustoms",
+    "url": "https://www.beyondcustoms.net",
+    "country": "us",
+    "region": "us"
+  },
+  {
     "name": "BoardSource",
     "url": "https://boardsource.xyz",
     "country": "us",
@@ -85,23 +91,10 @@
     "region": "us"
   },
   {
-    "name": "BeyondCustoms",
-    "url": "https://www.beyondcustoms.net",
-    "country": "us",
-    "region": "us"
-  },
-  {
     "name": "Cable Cult",
     "url": "https://www.cablecult.co.uk",
     "country": "uk",
     "region": "uk"
-  },
-  {
-    "name": "Caps Unlocked",
-    "url": "https://www.caps-unlocked.com",
-    "country": "uk",
-    "region": "uk",
-    "hide": true
   },
   {
     "name": "CandyKeys",
@@ -114,6 +107,13 @@
     "url": "https://www.cannonkeys.com",
     "country": "us",
     "region": "us"
+  },
+  {
+    "name": "Caps Unlocked",
+    "url": "https://www.caps-unlocked.com",
+    "country": "uk",
+    "region": "uk",
+    "hide": true
   },
   {
     "name": "CBKBD",
@@ -275,28 +275,28 @@
     "region": "latin america"
   },
   {
-    "name": "Flashquark",
-    "url": "https://www.flashquark.com",
-    "country": "us",
-    "region": "us"
-  },
-  {
     "name": "Firefly Keyboards",
     "url": "https://www.fireflykeyboards.com",
     "country": "us",
     "region": "us"
   },
   {
-    "name": "geekboards",
-    "url": "https://geekboards.ru/",
-    "country": "ru",
-    "region": "asia"
+    "name": "Flashquark",
+    "url": "https://www.flashquark.com",
+    "country": "us",
+    "region": "us"
   },
   {
     "name": "g Heavy Industries",
     "url": "https://www.gboards.ca",
     "country": "ca",
     "region": "canada"
+  },
+  {
+    "name": "geekboards",
+    "url": "https://geekboards.ru/",
+    "country": "ru",
+    "region": "asia"
   },
   {
     "name": "GH Search",
@@ -373,16 +373,16 @@
     "region": "china"
   },
   {
-    "name": "KBParadise",
-    "url": "https://www.kbparadise.com",
-    "country": "tw",
-    "region": "asia"
-  },
-  {
     "name": "kbnordic",
     "url": "https://kbnordic.se/",
     "country": "se",
     "region": "europe"
+  },
+  {
+    "name": "KBParadise",
+    "url": "https://www.kbparadise.com",
+    "country": "tw",
+    "region": "asia"
   },
   {
     "name": "Kebo",
@@ -395,6 +395,12 @@
     "url": "https://www.keeb.io",
     "country": "us",
     "region": "us"
+  },
+  {
+    "name": "Keeb Studio",
+    "url": "https://www.keeb.studio",
+    "country": "be",
+    "region": "europe"
   },
   {
     "name": "KeebMeUp",
@@ -423,12 +429,6 @@
     "hide": true
   },
   {
-    "name": "Keeb Studio",
-    "url": "https://www.keeb.studio",
-    "country": "be",
-    "region": "europe"
-  },
-  {
     "name": "Keebwerk",
     "url": "https://www.keebwerk.com",
     "country": "de",
@@ -439,6 +439,12 @@
     "url": "https://www.keebz.net",
     "country": "us",
     "region": "us"
+  },
+  {
+    "name": "key plus",
+    "url": "https://thekeyplus.eu/",
+    "country": "lb",
+    "region": "europe"
   },
   {
     "name": "Keyboard Co",
@@ -465,7 +471,12 @@
     "country": "de",
     "region": "europe"
   },
-
+  {
+    "name": "Keycapsss",
+    "url": "https://www.keycapsss.com",
+    "country": "de",
+    "region": "europe"
+  },
   {
     "name": "Keycult",
     "url": "https://www.keycult.com",
@@ -484,18 +495,6 @@
     "url": "https://www.keyhive.xyz",
     "country": "us",
     "region": "us"
-  },
-  {
-    "name": "Keycapsss",
-    "url": "https://www.keycapsss.com",
-    "country": "de",
-    "region": "europe"
-  },
-  {
-    "name": "key plus",
-    "url": "https://thekeyplus.eu/",
-    "country": "lb",
-    "region": "europe"
   },
   {
     "name": "Keys",
@@ -614,18 +613,6 @@
     "region": "us"
   },
   {
-    "name": "Maxgaming",
-    "url": "https://www.maxgaming.se/",
-    "country": "se",
-    "region": "europe"
-  },
-  {
-    "name": "MAX Keyboard",
-    "url": "https://www.maxkeyboard.com",
-    "country": "us",
-    "region": "us"
-  },
-  {
     "name": "Matrix Keyboard",
     "url": "https://www.matrixkeyboards.com",
     "country": "us",
@@ -636,6 +623,18 @@
     "url": "https://www.mauzpads.com",
     "country": "us",
     "region": "us"
+  },
+  {
+    "name": "MAX Keyboard",
+    "url": "https://www.maxkeyboard.com",
+    "country": "us",
+    "region": "us"
+  },
+  {
+    "name": "Maxgaming",
+    "url": "https://www.maxgaming.se/",
+    "country": "se",
+    "region": "europe"
   },
   {
     "name": "Mech Boards",
@@ -857,16 +856,22 @@
     "region": "uk"
   },
   {
-    "name": "RamaWorks",
-    "url": "https://www.ramaworks.store",
-    "country": "au",
-    "region": "oceania"
+    "name": "Qiwi Cables",
+    "url": "https://www.qiwicables.com/",
+    "country": "se",
+    "region": "europe"
   },
   {
     "name": "Rainkeebs",
     "url": "https://www.rainkeebs.mx/",
     "country": "us",
     "region": "us"
+  },
+  {
+    "name": "RamaWorks",
+    "url": "https://www.ramaworks.store",
+    "country": "au",
+    "region": "oceania"
   },
   {
     "name": "Rectangles",
@@ -1046,13 +1051,6 @@
     "hide": true
   },
   {
-    "name": "tinkerBOY",
-    "url": "https://www.tinkerboy.xyz",
-    "country": "ph",
-    "region": "asia",
-    "hide": true
-  },
-  {
     "name": "The Key Company",
     "url": "https://www.thekey.company",
     "country": "us",
@@ -1063,6 +1061,13 @@
     "url": "https://www.thicthock.com",
     "country": "hk",
     "region": "china"
+  },
+  {
+    "name": "tinkerBOY",
+    "url": "https://www.tinkerboy.xyz",
+    "country": "ph",
+    "region": "asia",
+    "hide": true
   },
   {
     "name": "Treasure",
@@ -1076,12 +1081,6 @@
     "url": "https://www.typr.tools",
     "country": "us",
     "region": "us"
-  },
-  {
-    "name": "Qiwi Cables",
-    "url": "https://www.qiwicables.com/",
-    "country": "se",
-    "region": "europe"
   },
   {
     "name": "UK Keycaps",
@@ -1176,15 +1175,15 @@
     "region": "canada"
   },
   {
-    "name": "zionstudios",
-    "url": "https://zionstudios.ph/",
-    "country": "ph",
-    "region": "asia"
-  },
-  {
     "name": "zFrontier",
     "url": "https://en.zfrontier.com",
     "country": "cn",
     "region": "china"
+  },
+  {
+    "name": "zionstudios",
+    "url": "https://zionstudios.ph/",
+    "country": "ph",
+    "region": "asia"
   }
 ]
