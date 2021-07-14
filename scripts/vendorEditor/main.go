@@ -350,10 +350,24 @@ func promptForStringField(fieldName string, fieldPtr *string) {
 }
 
 func selectRegion(fieldPtr *string) {
+	regions := []string{"asia", "africa", "canada", "china", "europe", "latin america", "ocenia", "uk", "us"}
+
+	initPos := 0
+
+	// Set initial postion of cursor
+	if *fieldPtr != "" {
+		for i, v := range regions {
+			if v == *fieldPtr {
+				initPos = i
+			}
+		}
+	}
+
 	prompt := promptui.Select{
 		Label:        "Select Region",
-		Items:        []string{"asia", "africa", "canada", "china", "europe", "latin america", "ocenia", "uk", "us"},
+		Items:        regions,
 		Size:         9,
+		CursorPos:    initPos,
 		HideSelected: true,
 	}
 	_, res, err := prompt.Run()
