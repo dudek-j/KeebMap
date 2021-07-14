@@ -145,10 +145,14 @@ func editVendorPrompt(list *VendorList, index int) error {
 		addVendorPromptSequence(&vendorCopy)
 		removeVendorFromList(list, index)
 		insertIntoSortedList(list, vendorCopy)
+		fmt.Println("Modified vendor:", selectVendorPtr.Name)
 	case "Delete":
+		name := selectVendorPtr.Name
 		removeVendorFromList(list, index)
+		fmt.Println("Deleted vendor from list:", name)
 	case "Toggle Hide":
 		selectVendorPtr.Hide = !selectVendorPtr.Hide
+		fmt.Println("Toggled hidden:", selectVendorPtr.Name)
 	case "Back to List":
 		return errBackSelected
 	case "Exit to Start":
