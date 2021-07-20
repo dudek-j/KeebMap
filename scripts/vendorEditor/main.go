@@ -59,11 +59,11 @@ func main() {
 type VendorList []Vendor
 
 type Vendor struct {
-	Name    string
-	Url     string
-	Country string
-	Region  string
-	Hide    bool `json:"hide,omitempty"`
+	Name    string `json:"name"`
+	Url     string `json:"url"`
+	Country string `json:"country"`
+	Region  string `json:"region"`
+	Hide    bool   `json:"hide,omitempty"`
 }
 
 func promptForOperation(vendorCount int) string {
