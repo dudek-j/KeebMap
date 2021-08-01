@@ -286,6 +286,12 @@
   "region": "us"
  },
  {
+  "name": "Fruitykeeb",
+  "url": "https://www.fruitykeeb.xyz/",
+  "country": "us",
+  "region": "us"
+ },
+ {
   "name": "g Heavy Industries",
   "url": "https://www.gboards.ca",
   "country": "ca",
@@ -498,6 +504,12 @@
  {
   "name": "Keyhive",
   "url": "https://www.keyhive.xyz",
+  "country": "us",
+  "region": "us"
+ },
+ {
+  "name": "Keypop",
+  "url": "https://www.keypop.net/",
   "country": "us",
   "region": "us"
  },
