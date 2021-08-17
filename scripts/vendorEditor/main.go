@@ -354,7 +354,7 @@ func promptForStringField(fieldName string, fieldPtr *string) {
 }
 
 func selectRegion(fieldPtr *string) {
-	regions := []string{"asia", "africa", "canada", "china", "europe", "latin america", "ocenia", "uk", "us"}
+	regions := []string{"asia", "africa", "canada", "china", "europe", "latin america", "oceania", "uk", "us"}
 
 	initPos := 0
 
