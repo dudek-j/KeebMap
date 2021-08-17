@@ -414,6 +414,12 @@
   "region": "europe"
  },
  {
+  "name": "KEEBD",
+  "url": "https://keebd.com/",
+  "country": "au",
+  "region": "oceania"
+ },
+ {
   "name": "Keebmat",
   "url": "https://keebmat.com/",
   "country": "pl",
