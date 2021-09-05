@@ -31,6 +31,12 @@
   "hide": true
  },
  {
+  "name": "ALL CAPS",
+  "url": "https://allcaps.store/",
+  "country": "au",
+  "region": "oceania"
+ },
+ {
   "name": "Alphaerior Keys",
   "url": "https://www.alpheriorkeys.com",
   "country": "us",
@@ -67,8 +73,20 @@
   "region": "canada"
  },
  {
+  "name": "Basekeys",
+  "url": "https://basekeys.jp/en",
+  "country": "jp",
+  "region": "asia"
+ },
+ {
   "name": "bear cable co",
   "url": "https://www.bearcables.com/",
+  "country": "us",
+  "region": "us"
+ },
+ {
+  "name": "Bespoke Keys",
+  "url": "https://bespokekeys.shop/",
   "country": "us",
   "region": "us"
  },
@@ -208,6 +226,12 @@
   "region": "canada"
  },
  {
+  "name": "Dinokeys",
+  "url": "https://dinokeys.co/",
+  "country": "us",
+  "region": "us"
+ },
+ {
   "name": "DiviniKey",
   "url": "https://www.divinikey.com",
   "country": "us",
@@ -234,6 +258,12 @@
  {
   "name": "Drop",
   "url": "https://www.drop.com",
+  "country": "us",
+  "region": "us"
+ },
+ {
+  "name": "Elboard Keyboard Supply",
+  "url": "https://elboard.store/",
   "country": "us",
   "region": "us"
  },
@@ -341,6 +371,12 @@
   "region": "us"
  },
  {
+  "name": "Hex Keyboards",
+  "url": "https://hexkeyboards.com/",
+  "country": "sg",
+  "region": "asia"
+ },
+ {
   "name": "HID Technologies",
   "url": "https://www.hidtech.ca",
   "country": "ca",
@@ -420,6 +456,12 @@
   "region": "europe"
  },
  {
+  "name": "KeebCats",
+  "url": "https://keebcats.co.uk/",
+  "country": "uk",
+  "region": "uk"
+ },
+ {
   "name": "KEEBD",
   "url": "https://keebd.com/",
   "country": "au",
@@ -449,6 +491,12 @@
   "country": "us",
   "region": "us",
   "hide": true
+ },
+ {
+  "name": "KeebsForAll",
+  "url": "https://keebsforall.com/",
+  "country": "us",
+  "region": "us"
  },
  {
   "name": "KeebSource",
@@ -542,6 +590,12 @@
   "url": "https://www.keyspresso.ca",
   "country": "ca",
   "region": "canada"
+ },
+ {
+  "name": "Kimdi Keys",
+  "url": "https://kimdi-keys.com/",
+  "country": "us",
+  "region": "us"
  },
  {
   "name": "Kinetic Labs ",
@@ -642,6 +696,12 @@
   "region": "europe"
  },
  {
+  "name": "MAKeyboard",
+  "url": "https://makeyboard.com/",
+  "country": "ca",
+  "region": "canada"
+ },
+ {
   "name": "Malvix",
   "url": "https://store.malvix.com",
   "country": "us",
@@ -678,6 +738,12 @@
   "region": "uk"
  },
  {
+  "name": "Mech.Land",
+  "url": "https://mech.land/",
+  "country": "ca",
+  "region": "canada"
+ },
+ {
   "name": "Mechanical Keyboards",
   "url": "https://www.mechanicalkeyboards.com",
   "country": "us",
@@ -688,6 +754,12 @@
   "url": "https://www.mechbox.co.uk",
   "country": "uk",
   "region": "uk"
+ },
+ {
+  "name": "Mechcables",
+  "url": "https://mechcables.com/",
+  "country": "us",
+  "region": "us"
  },
  {
   "name": "MechGroupBuys",
@@ -842,6 +914,12 @@
   "region": "us"
  },
  {
+  "name": "Pantheon Keys",
+  "url": "https://pantheonkeys.com/",
+  "country": "sg",
+  "region": "asia"
+ },
+ {
   "name": "Paramount Keeb",
   "url": "https://paramountkeeb.com/",
   "country": "us",
@@ -915,6 +993,12 @@
   "region": "oceania"
  },
  {
+  "name": "Rebult Keyboards",
+  "url": "https://www.rebultkeyboards.com/",
+  "country": "my",
+  "region": "asia"
+ },
+ {
   "name": "Rectangles",
   "url": "https://rectangles.store/",
   "country": "in",
@@ -943,6 +1027,18 @@
   "url": "https://www.ringerkeys.com",
   "country": "us",
   "region": "us"
+ },
+ {
+  "name": "RnCables",
+  "url": "https://rncables.com/",
+  "country": "hk",
+  "region": "asia"
+ },
+ {
+  "name": "RNDKBD",
+  "url": "https://rndkbd.com/",
+  "country": "ca",
+  "region": "canada"
  },
  {
   "name": "Rocket keyboards",
@@ -998,6 +1094,24 @@
   "url": "https://www.splitkb.com",
   "country": "nl",
   "region": "europe"
+ },
+ {
+  "name": "Stacks KB",
+  "url": "https://stackskb.com/",
+  "country": "in",
+  "region": "asia"
+ },
+ {
+  "name": "StayWired Cables",
+  "url": "https://staywiredcables.com/",
+  "country": "ca",
+  "region": "canada"
+ },
+ {
+  "name": "Studio Greenfield",
+  "url": "https://studiogreenfield.net/",
+  "country": "kr",
+  "region": "asia"
  },
  {
   "name": "StupidFish Designs",
