@@ -787,6 +787,12 @@
   "region": "us"
  },
  {
+  "name": "Mekibo",
+  "url": "https://mekibo.com/",
+  "country": "us",
+  "region": "us"
+ },
+ {
   "name": "Melgeek",
   "url": "https://www.melgeek.com",
   "country": "cn",
@@ -851,6 +857,12 @@
   "url": "http://neonkeys.com/",
   "country": "mx",
   "region": "latin america"
+ },
+ {
+  "name": "Node Keyboards",
+  "url": "https://www.nodekeyboards.xyz/",
+  "country": "us",
+  "region": "us"
  },
  {
   "name": "Norbauer \u0026 Co",
