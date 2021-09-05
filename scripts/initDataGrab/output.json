@@ -1,962 +1,1263 @@
 [
   {
     "name": "1UP Keyboards",
-    "url": "https://www.1upkeyboards.com",
+    "url": "https://1upkeyboards.com",
     "country": "us",
     "region": "us"
   },
   {
     "name": "3D Keebs",
-    "url": "https://www.3dkeebs.com",
+    "url": "https://3dkeebs.com",
     "country": "us",
     "region": "us"
   },
   {
     "name": "415 Keys",
-    "url": "https://www.415keys.com",
+    "url": "https://415keys.com",
     "country": "us",
     "region": "us"
   },
   {
     "name": "AEBoards",
-    "url": "https://www.aeboards.com",
-    "country": "au",
-    "region": "oceania"
+    "url": "https://aeboards.com",
+    "country": "australia",
+    "region": "australia"
+  },
+  {
+    "name": "All Caps",
+    "url": "https://allcaps.store",
+    "country": "us",
+    "region": "us"
   },
   {
     "name": "Alphaerior Keys",
-    "url": "https://www.alpheriorkeys.com",
+    "url": "https://alpheriorkeys.com",
     "country": "us",
     "region": "us"
   },
   {
     "name": "AlphaKeys",
-    "url": "https://www.alphakeys.ca",
+    "url": "https://alphakeys.ca",
     "country": "us",
     "region": "us"
   },
   {
     "name": "American Haptics",
-    "url": "https://www.american-haptics.com",
+    "url": "https://american-haptics.com",
     "country": "us",
     "region": "us"
   },
   {
     "name": "Apex Keyboards",
-    "url": "https://www.apexkeyboards.ca",
-    "country": "ca",
+    "url": "https://apexkeyboards.ca",
+    "country": "canada",
     "region": "canada"
   },
   {
     "name": "AshKeebs",
-    "url": "https://www.ashkeebs.com",
-    "country": "ca",
+    "url": "https://ashkeebs.comPromo Codes →• WEENG• Jaeyou",
+    "country": "canada",
     "region": "canada"
   },
   {
-    "name": "AuraMech",
-    "url": "https://www.auramech.com",
-    "country": "ca",
+    "name": "AuraMech ",
+    "url": "https://auramech.com",
+    "country": "canada",
     "region": "canada"
   },
   {
-    "name": "BoardSource",
-    "url": "https://www.boardsource.xyz",
-    "country": "us",
-    "region": "us"
+    "name": "Basekeys",
+    "url": "https://basekeys.jp",
+    "country": "jp",
+    "region": "jp"
   },
   {
-    "name": "Bolsa Keyboard Supply",
-    "url": "https://www.bolsakeyboardsupply.com",
+    "name": "BespokeKeys",
+    "url": "https://bespokekeys.shop",
     "country": "us",
     "region": "us"
   },
   {
     "name": "BeyondCustoms",
-    "url": "https://www.beyondcustoms.net",
+    "url": "https://beyondcustoms.net",
+    "country": "south_africa",
+    "region": "south_africa"
+  },
+  {
+    "name": "BoardSource",
+    "url": "https://boardsource.xyz",
+    "country": "us",
+    "region": "us"
+  },
+  {
+    "name": "Bolsa Keyboard Supply",
+    "url": "https://bolsakeyboardsupply.com",
     "country": "us",
     "region": "us"
   },
   {
     "name": "Cable Cult",
-    "url": "https://www.cablecult.co.uk",
+    "url": "https://cablecult.co.uk",
     "country": "uk",
     "region": "uk"
   },
   {
     "name": "Caps Unlocked",
-    "url": "https://www.caps-unlocked.com",
+    "url": "https://caps-unlocked.com",
     "country": "uk",
     "region": "uk"
   },
   {
     "name": "CandyKeys",
-    "url": "https://www.candykeys.com",
+    "url": "https://candykeys.com",
     "country": "de",
-    "region": "europe"
+    "region": "de"
   },
   {
     "name": "CannonKeys",
-    "url": "https://www.cannonkeys.com",
+    "url": "https://cannonkeys.com",
     "country": "us",
     "region": "us"
   },
   {
     "name": "CBKBD",
-    "url": "https://www.cbkbd.com",
+    "url": "https://cbkbd.com",
     "country": "us",
     "region": "us"
   },
   {
     "name": "CFTKB",
-    "url": "https://www.cftkb.com",
+    "url": "https://cftkb.com",
+    "country": "us",
+    "region": "us"
+  },
+  {
+    "name": "Checkerboards",
+    "url": "https://checkerboards.xyz",
     "country": "us",
     "region": "us"
   },
   {
     "name": "Clark Kable",
-    "url": "https://www.clarkkable.com",
+    "url": "https://clarkkable.com",
     "country": "de",
-    "region": "europe"
+    "region": "de"
   },
   {
     "name": "Clawsome Boards",
-    "url": "https://www.www.clawboards.xyz",
+    "url": "https://www.clawboards.xyz",
     "country": "us",
     "region": "us"
   },
   {
     "name": "Clueboard",
-    "url": "https://www.clueboard.co",
+    "url": "https://clueboard.co",
     "country": "us",
     "region": "us"
   },
   {
     "name": "Crafting Keyboards",
-    "url": "https://www.craftingkeyboards.com",
-    "country": "do",
-    "region": "latin america"
+    "url": "https://craftingkeyboards.com",
+    "country": "dominican_republic",
+    "region": "dominican_republic"
+  },
+  {
+    "name": "Ctrl.Shift.Esc",
+    "url": "https://ctrlshiftesc.co.za",
+    "country": "south_africa",
+    "region": "south_africa"
   },
   {
     "name": "Custom KBD",
-    "url": "https://www.customkbd.com",
-    "country": "au",
-    "region": "oceania"
+    "url": "https://customkbd.com",
+    "country": "australia",
+    "region": "australia"
   },
   {
     "name": "DailyClack",
-    "url": "https://www.dailyclack.com",
-    "country": "au",
-    "region": "oceania"
+    "url": "https://dailyclack.com",
+    "country": "australia",
+    "region": "australia"
   },
   {
     "name": "Dangkeebs",
-    "url": "https://www.dangkeebs.com",
+    "url": "https://dangkeebs.com",
     "country": "us",
     "region": "us"
   },
   {
-    "name": "Desk Candy",
-    "url": "https://www.deskcandy.xyz",
+    "name": "Desk Candy ",
+    "url": "https://deskcandy.xyz",
+    "country": "us",
+    "region": "us"
+  },
+  {
+    "name": "Desk Cookies ",
+    "url": "https://deskcookies.com",
     "country": "us",
     "region": "us"
   },
   {
     "name": "DeskHero",
-    "url": "https://www.deskhero.ca",
-    "country": "ca",
+    "url": "https://deskhero.ca",
+    "country": "canada",
     "region": "canada"
   },
   {
+    "name": "DinoKeys",
+    "url": "https://dinokeys.co",
+    "country": "us",
+    "region": "us"
+  },
+  {
     "name": "DiviniKey",
-    "url": "https://www.divinikey.com",
+    "url": "https://divinikey.comPromo Codes →• ANDY• WIZARD",
     "country": "us",
     "region": "us"
   },
   {
     "name": "DIY Keyboards",
-    "url": "https://www.diykeyboards.com",
+    "url": "https://diykeyboards.com",
     "country": "us",
     "region": "us"
   },
   {
     "name": "Donut Cables",
-    "url": "https://www.donutcables.com",
+    "url": "https://donutcables.com",
     "country": "us",
     "region": "us"
   },
   {
     "name": "Dream Cables",
-    "url": "https://www.dream-cables.com",
+    "url": "https://dream-cables.com",
     "country": "us",
     "region": "us"
   },
   {
     "name": "Drop",
-    "url": "https://www.drop.com",
+    "url": "https://drop.com",
+    "country": "us",
+    "region": "us"
+  },
+  {
+    "name": "Dygma",
+    "url": "https://dygma.com",
+    "country": "es",
+    "region": "es"
+  },
+  {
+    "name": "Elboard Keyboard Supply",
+    "url": "https://elboard.store",
     "country": "us",
     "region": "us"
   },
   {
     "name": "Eloquent Clicks",
-    "url": "https://www.eloquentclicks.com",
+    "url": "https://eloquentclicks.com",
     "country": "eu",
     "region": "eu"
   },
   {
     "name": "Endgame Keys",
-    "url": "https://www.endgamekeys.com",
+    "url": "https://endgamekeys.com",
     "country": "us",
     "region": "us"
   },
   {
     "name": "ePathBuy",
-    "url": "https://www.epathbuy.com",
+    "url": "https://epathbuy.com",
     "country": "cn",
-    "region": "china"
+    "region": "cn"
   },
   {
     "name": "Epomaker",
-    "url": "https://www.epomaker.com",
+    "url": "https://epomaker.com",
     "country": "cn",
-    "region": "china"
+    "region": "cn"
   },
   {
     "name": "Escape Keyboards",
-    "url": "https://www.esckeyboard.com",
-    "country": "au",
-    "region": "oceania"
+    "url": "https://esckeyboard.com",
+    "country": "australia",
+    "region": "australia"
+  },
+  {
+    "name": "Fancy Customs",
+    "url": "https://fancycustoms.com",
+    "country": "mexico",
+    "region": "mexico"
   },
   {
     "name": "Flashquark",
-    "url": "https://www.flashquark.com",
+    "url": "https://flashquark.com",
     "country": "us",
     "region": "us"
   },
   {
     "name": "Firefly Keyboards",
-    "url": "https://www.fireflykeyboards.com",
+    "url": "https://fireflykeyboards.com",
     "country": "us",
     "region": "us"
   },
   {
-    "name": "g Heavy Industries",
-    "url": "https://www.gboards.ca",
-    "country": "ca",
+    "name": "Fruitykeeb",
+    "url": "https://fruitykeeb.xyz",
+    "country": "us",
+    "region": "us"
+  },
+  {
+    "name": "g Heavy Industries ",
+    "url": "https://gboards.ca",
+    "country": "canada",
     "region": "canada"
   },
   {
-    "name": "GH Search",
-    "url": "https://www.ghsear.ch",
+    "name": "GH Search ",
+    "url": "https://ghsear.ch",
     "country": "us",
     "region": "us"
   },
   {
+    "name": "Gizmo Engineering",
+    "url": "https://gizmo.engineering",
+    "country": "it",
+    "region": "it"
+  },
+  {
     "name": "Glorious PC Gaming",
-    "url": "https://www.pcgamingrace.com",
+    "url": "https://pcgamingrace.com",
     "country": "us",
     "region": "us"
   },
   {
     "name": "Gray Studio",
-    "url": "https://www.graystudio.club",
+    "url": "https://graystudio.club",
     "country": "cn",
-    "region": "china"
+    "region": "cn"
   },
   {
-    "name": "HID Technologies",
-    "url": "https://www.hidtech.ca",
-    "country": "ca",
+    "name": "Heebie Keebies",
+    "url": "https://heebiekeebies.com",
+    "country": "us",
+    "region": "us"
+  },
+  {
+    "name": "HEX Keyboards",
+    "url": "https://hexkeyboards.com/",
+    "country": "singapore",
+    "region": "singapore"
+  },
+  {
+    "name": "HID Technologies ",
+    "url": "https://hidtech.ca",
+    "country": "canada",
     "region": "canada"
   },
   {
     "name": "HolySwitch",
-    "url": "https://www.holyswitch.co",
+    "url": "https://holyswitch.co",
     "country": "us",
     "region": "us"
   },
   {
     "name": "IlumKB",
-    "url": "https://www.ilumkb.com",
-    "country": "sg",
-    "region": "asia"
+    "url": "https://ilumkb.com",
+    "country": "singapore",
+    "region": "singapore"
   },
   {
     "name": "InfinityKey",
-    "url": "https://www.infinitykey.zone",
-    "country": "vn",
-    "region": "asia"
+    "url": "https://infinitykey.zone",
+    "country": "vietnam",
+    "region": "vietnam"
   },
   {
     "name": "JUJU Cables",
-    "url": "https://www.jujucables.com",
-    "country": "au",
-    "region": "oceania"
+    "url": "https://jujucables.com",
+    "country": "australia",
+    "region": "australia"
   },
   {
-    "name": "KBDFans ",
-    "url": "https://www.kbdfans.com",
+    "name": "Kat Koil",
+    "url": "https://katkoil.com",
+    "country": "fr",
+    "region": "fr"
+  },
+  {
+    "name": "KBDFans",
+    "url": "https://kbdfans.comPromo Codes →• ILOVEKBDFANS",
     "country": "cn",
-    "region": "china"
+    "region": "cn"
   },
   {
     "name": "KBParadise",
-    "url": "https://www.kbparadise.com",
-    "country": "tw",
-    "region": "asia"
+    "url": "https://kbparadise.com",
+    "country": "taiwan",
+    "region": "taiwan"
   },
   {
     "name": "Kebo",
-    "url": "https://www.kebo.store",
+    "url": "https://kebo.store",
     "country": "us",
     "region": "us"
   },
+  { "name": "Keeb", "url": "https://keeb.io", "country": "us", "region": "us" },
   {
-    "name": "Keeb",
-    "url": "https://www.keeb.io",
+    "name": "KEEBD",
+    "url": "https://keebd.com",
+    "country": "australia",
+    "region": "australia"
+  },
+  {
+    "name": "KeebCats",
+    "url": "https://keebcats.co.uk",
+    "country": "uk",
+    "region": "uk"
+  },
+  {
+    "name": "KEEBMAT",
+    "url": "https://keebmat.com",
     "country": "us",
     "region": "us"
   },
   {
     "name": "KeebMeUp",
-    "url": "https://www.keebmeup.com",
+    "url": "https://keebmeup.com",
+    "country": "us",
+    "region": "us"
+  },
+  {
+    "name": "KeebMonkey",
+    "url": "https://keebmonkey.com",
     "country": "us",
     "region": "us"
   },
   {
     "name": "KeebNerd",
-    "url": "https://www.keebnerd.com",
+    "url": "https://keebnerd.com",
     "country": "us",
     "region": "us"
   },
   {
     "name": "KeebSource",
-    "url": "https://www.keebsource.com",
+    "url": "https://keebsource.com",
+    "country": "us",
+    "region": "us"
+  },
+  {
+    "name": "KeebsForAll",
+    "url": "https://keebsforall.comPromo Codes →• Jaeyou",
     "country": "us",
     "region": "us"
   },
   {
     "name": "Keeb Studio",
-    "url": "https://www.keeb.studio",
-    "country": "bg",
-    "region": "europe"
+    "url": "https://keeb.studio",
+    "country": "belgium",
+    "region": "belgium"
   },
   {
     "name": "Keebwerk",
-    "url": "https://www.keebwerk.com",
+    "url": "https://keebwerk.com",
     "country": "de",
-    "region": "europe"
+    "region": "de"
   },
   {
     "name": "Keebz",
-    "url": "https://www.keebz.net",
+    "url": "https://keebz.net",
     "country": "us",
     "region": "us"
   },
   {
     "name": "Keyboard Co",
-    "url": "https://www.keyboardco.com",
+    "url": "https://keyboardco.com",
     "country": "uk",
     "region": "uk"
   },
   {
     "name": "Keyboard Lube",
-    "url": "https://www.keyboardlube.com",
+    "url": "https://keyboardlube.com",
     "country": "us",
     "region": "us"
   },
   {
     "name": "KeyboardTreehouse",
-    "url": "https://www.keyboardtreehouse.com",
-    "country": "au",
-    "region": "oceania"
+    "url": "https://keyboardtreehouse.com",
+    "country": "australia",
+    "region": "australia"
   },
   {
-    "name": "Keycult",
-    "url": "https://www.keycult.com",
+    "name": "Keycables",
+    "url": "https://keycables.de",
+    "country": "de",
+    "region": "de"
+  },
+  {
+    "name": "KeycapLendar ",
+    "url": "https://keycaplendar.firebaseapp.com",
     "country": "us",
     "region": "us"
   },
   {
-    "name": "Keygem",
-    "url": "https://www.keygem.store",
-    "country": "de",
-    "region": "europe"
-  },
-  {
-    "name": "Keyhive",
-    "url": "https://www.keyhive.xyz",
+    "name": "Keycapsets ",
+    "url": "https://keycapsets.com",
     "country": "us",
     "region": "us"
   },
   {
     "name": "Keycapsss",
-    "url": "https://www.keycapsss.com",
+    "url": "https://keycapsss.com",
     "country": "de",
-    "region": "europe"
+    "region": "de"
+  },
+  {
+    "name": "Keycult",
+    "url": "https://keycult.com",
+    "country": "us",
+    "region": "us"
+  },
+  {
+    "name": "Keygem",
+    "url": "https://keygem.store",
+    "country": "de",
+    "region": "de"
+  },
+  {
+    "name": "Keyhive",
+    "url": "https://keyhive.xyz",
+    "country": "us",
+    "region": "us"
+  },
+  {
+    "name": "KeyPop",
+    "url": "https://keypop.net",
+    "country": "us",
+    "region": "us"
   },
   {
     "name": "Keys",
-    "url": "https://www.keys.my",
-    "country": "my",
-    "region": "asia"
+    "url": "https://keys.my",
+    "country": "malaysia",
+    "region": "malaysia"
   },
   {
     "name": "Keyspresso",
-    "url": "https://www.keyspresso.ca",
-    "country": "ca",
+    "url": "https://keyspresso.caPromo Codes →• Jaeyou",
+    "country": "canada",
     "region": "canada"
   },
   {
-    "name": "Kinetic Labs ",
-    "url": "https://www.kineticlabs.store",
+    "name": "Kimdi Keys",
+    "url": "https://kimdi-keys.com",
     "country": "us",
     "region": "us"
   },
   {
-    "name": "KinglyKeys",
-    "url": "https://www.kingly-keys.xyz",
+    "name": "Kinetic Labs",
+    "url": "https://kineticlabs.store",
     "country": "us",
     "region": "us"
+  },
+  {
+    "name": "KinglyKeys ",
+    "url": "https://kingly-keys.xyz",
+    "country": "us",
+    "region": "us"
+  },
+  {
+    "name": "KiwiKeebs",
+    "url": "https://kiwikeebs.co.uk",
+    "country": "uk",
+    "region": "uk"
   },
   {
     "name": "Kono",
-    "url": "https://www.kono.store",
+    "url": "https://kono.store",
     "country": "us",
     "region": "us"
   },
   {
     "name": "KORABRAND",
-    "url": "https://www.www.korabrand.xyz",
-    "country": "sk",
-    "region": "europe"
+    "url": "https://korabrand.xyz",
+    "country": "slovakia",
+    "region": "slovakia"
   },
   {
     "name": "KPRepublic",
-    "url": "https://www.kprepublic.com",
+    "url": "https://kprepublic.com",
     "country": "cn",
-    "region": "china"
+    "region": "cn"
   },
   {
     "name": "Kraken Keyboards",
-    "url": "https://www.krakenkeyboards.com",
+    "url": "https://krakenkeyboards.com",
     "country": "us",
     "region": "us"
   },
   {
     "name": "Kriscables",
-    "url": "https://www.kriscables.com",
-    "country": "pt",
-    "region": "europe"
+    "url": "https://kriscables.com",
+    "country": "portugal",
+    "region": "portugal"
+  },
+  {
+    "name": "KumaMech",
+    "url": "https://kumamech.com",
+    "country": "canada",
+    "region": "canada"
   },
   {
     "name": "KwertieKeys",
-    "url": "https://www.kwertiekeys.com",
-    "country": "tw",
-    "region": "asia"
+    "url": "https://kwertiekeys.com",
+    "country": "taiwan",
+    "region": "taiwan"
+  },
+  {
+    "name": "Kyo Industries",
+    "url": "https://kyo.industries",
+    "country": "denmark",
+    "region": "denmark"
   },
   {
     "name": "Lazy Designers",
-    "url": "https://www.lazydesigners.cn",
+    "url": "https://lazydesigners.cn",
     "country": "cn",
-    "region": "china"
+    "region": "cn"
   },
   {
     "name": "Let’s Get It",
-    "url": "https://www.letsgetit.io",
+    "url": "https://letsgetit.io",
     "country": "kr",
     "region": "kr"
   },
   {
     "name": "LF Keyboards",
-    "url": "https://www.lfkeyboards.com",
+    "url": "https://lfkeyboards.com",
     "country": "us",
     "region": "us"
   },
   {
     "name": "Little Keyboards",
-    "url": "https://www.littlekeyboards.com",
+    "url": "https://littlekeyboards.com",
     "country": "us",
     "region": "us"
   },
   {
     "name": "Loob",
-    "url": "https://www.loob.no",
-    "country": "no",
-    "region": "europe"
+    "url": "https://loob.no",
+    "country": "norway",
+    "region": "norway"
+  },
+  {
+    "name": "Love My Switches",
+    "url": "https://lovemyswitches.com",
+    "country": "us",
+    "region": "us"
+  },
+  {
+    "name": "MAKeyboard",
+    "url": "https://makeyboard.com",
+    "country": "canada",
+    "region": "canada"
   },
   {
     "name": "Malvix",
-    "url": "https://www.store.malvix.com",
+    "url": "https://store.malvix.com",
     "country": "us",
     "region": "us"
   },
   {
     "name": "MAX Keyboard",
-    "url": "https://www.maxkeyboard.com",
+    "url": "https://maxkeyboard.com",
     "country": "us",
     "region": "us"
   },
   {
     "name": "Matrix Keyboard",
-    "url": "https://www.matrixkeyboards.com",
+    "url": "https://matrixkeyboards.com",
     "country": "us",
     "region": "us"
   },
   {
     "name": "Mauzpads",
-    "url": "https://www.mauzpads.com",
+    "url": "https://mauzpads.com",
     "country": "us",
     "region": "us"
   },
   {
     "name": "Mech Boards",
-    "url": "https://www.mechboards.co.uk",
+    "url": "https://mechboards.co.uk",
     "country": "uk",
     "region": "uk"
   },
   {
+    "name": "Mech Lands",
+    "url": "https://mech.land",
+    "country": "canada",
+    "region": "canada"
+  },
+  {
     "name": "Mechanical Keyboards",
-    "url": "https://www.mechanicalkeyboards.com",
+    "url": "https://mechanicalkeyboards.com",
     "country": "us",
     "region": "us"
   },
   {
     "name": "Mechbox",
-    "url": "https://www.mechbox.co.uk",
+    "url": "https://mechbox.co.uk",
     "country": "uk",
     "region": "uk"
   },
   {
-    "name": "MechGroupBuys  ",
-    "url": "https://www.mechgroupbuys.com",
+    "name": "Mechcables",
+    "url": "https://mechcables.com",
+    "country": "us",
+    "region": "us"
+  },
+  {
+    "name": "Mechdiy",
+    "url": "https://mechdiy.com",
+    "country": "cn",
+    "region": "cn"
+  },
+  {
+    "name": "MechGroupBuys ",
+    "url": "https://mechgroupbuys.com",
     "country": "us",
     "region": "us"
   },
   {
     "name": "Mechkey",
-    "url": "https://www.mechkey.store",
-    "country": "vn",
-    "region": "asia"
+    "url": "https://mechkey.store",
+    "country": "vietnam",
+    "region": "vietnam"
   },
   {
     "name": "Mechs and Co",
-    "url": "https://www.mechsandco.com",
+    "url": "https://mechsandco.com",
     "country": "us",
     "region": "us"
   },
   {
     "name": "Mehkee",
-    "url": "https://www.mehkee.com",
+    "url": "https://mehkee.com",
     "country": "us",
     "region": "us"
   },
   {
+    "name": "Mekibo",
+    "url": "https://mekibo.com",
+    "country": "kr",
+    "region": "kr"
+  },
+  {
     "name": "Melgeek",
-    "url": "https://www.melgeek.com",
+    "url": "https://melgeek.com",
     "country": "cn",
-    "region": "china"
+    "region": "cn"
   },
   {
     "name": "Mino Keys",
-    "url": "https://www.minokeys.com",
-    "country": "ca",
+    "url": "https://minokeys.com",
+    "country": "canada",
     "region": "canada"
   },
   {
     "name": "MKUltra",
-    "url": "https://www.mkultra.click",
+    "url": "https://mkultra.click",
+    "country": "us",
+    "region": "us"
+  },
+  {
+    "name": "Mode Designs",
+    "url": "https://shop.modedesigns.com",
     "country": "us",
     "region": "us"
   },
   {
     "name": "Monokei",
-    "url": "https://www.monokei.co",
-    "country": "sg",
-    "region": "asia"
+    "url": "https://monokei.co",
+    "country": "singapore",
+    "region": "singapore"
   },
   {
     "name": "Monstargears",
-    "url": "https://www.monstargears.com",
+    "url": "https://monstargears.com",
     "country": "kr",
-    "region": "asia"
+    "region": "kr"
   },
   {
     "name": "MTB Keys",
-    "url": "https://www.mtbkeys.com",
-    "country": "ca",
+    "url": "https://mtbkeys.com",
+    "country": "canada",
     "region": "canada"
   },
   {
     "name": "MyKeyboard",
-    "url": "https://www.mykeyboard.eu",
-    "country": "bg",
-    "region": "europe"
+    "url": "https://mykeyboard.eu",
+    "country": "belgium",
+    "region": "belgium"
   },
   {
-    "name": "Norbauer & Co",
-    "url": "https://www.shop.norbauer.com",
+    "name": "NodeKeyboards",
+    "url": "https://nodekeyboards.xyz",
     "country": "us",
     "region": "us"
   },
   {
-    "name": "NovelKeys ",
-    "url": "https://www.novelkeys.xyz",
+    "name": "Norbauer & Co",
+    "url": "https://shop.norbauer.com",
+    "country": "us",
+    "region": "us"
+  },
+  {
+    "name": "NovelKeys",
+    "url": "https://novelkeys.xyzPromo Codes →• hueyhueyhuey",
     "country": "us",
     "region": "us"
   },
   {
     "name": "Noxary",
-    "url": "https://www.noxary.co",
+    "url": "https://noxary.co",
     "country": "uk",
     "region": "uk"
   },
   {
     "name": "Oblotzky Industries",
-    "url": "https://www.oblotzky.industries",
+    "url": "https://oblotzky.industries",
     "country": "de",
-    "region": "europe"
+    "region": "de"
   },
   {
     "name": "Oh, Keycaps!",
-    "url": "https://www.ohkeycaps.com",
+    "url": "https://ohkeycaps.com",
     "country": "us",
     "region": "us"
   },
   {
     "name": "OLKB",
-    "url": "https://www.olkb.com",
+    "url": "https://olkb.com",
     "country": "us",
     "region": "us"
   },
   {
     "name": "Omnitype",
-    "url": "https://www.omnitype.com",
+    "url": "https://omnitype.com",
     "country": "us",
     "region": "us"
   },
   {
     "name": "Optic Boards",
-    "url": "https://www.opticboards.com",
+    "url": "https://opticboards.com",
     "country": "uk",
     "region": "uk"
   },
   {
     "name": "Originative Co",
-    "url": "https://www.originativeco.com",
+    "url": "https://originativeco.com",
     "country": "us",
     "region": "us"
   },
   {
     "name": "P3D Store",
-    "url": "https://www.p3dstore.com",
+    "url": "https://p3dstore.com",
+    "country": "us",
+    "region": "us"
+  },
+  {
+    "name": "Pantheonkeys",
+    "url": "https://pantheonkeys.com",
+    "country": "singapore",
+    "region": "singapore"
+  },
+  {
+    "name": "Paramount Keeb",
+    "url": "https://paramountkeeb.com",
     "country": "us",
     "region": "us"
   },
   {
     "name": "PC Keyboard",
-    "url": "https://www.pckeyboard.com",
+    "url": "https://pckeyboard.com",
     "country": "us",
     "region": "us"
   },
   {
     "name": "Percent Studio",
-    "url": "https://www.percent.studio",
+    "url": "https://percent.studio",
     "country": "us",
     "region": "us"
   },
   {
     "name": "Pexonpcs",
-    "url": "https://www.pexonpcs.co.uk",
+    "url": "https://pexonpcs.co.uk",
     "country": "uk",
     "region": "uk"
   },
   {
     "name": "PimpMyKeyboard",
-    "url": "https://www.pimpmykeyboard.com",
+    "url": "https://pimpmykeyboard.com",
     "country": "us",
     "region": "us"
   },
   {
     "name": "Prevail Key Co",
-    "url": "https://www.prevailkeyco.com",
+    "url": "https://prevailkeyco.comPromo Codes →• ANDYV• SPUMFY• Jaeyou",
     "country": "us",
     "region": "us"
   },
   {
     "name": "PrimeKB",
-    "url": "https://www.primekb.com",
+    "url": "https://primekb.com",
     "country": "us",
     "region": "us"
   },
   {
     "name": "Profet Keyboards",
-    "url": "https://www.shop.profetkeyboards.com",
+    "url": "https://shop.profetkeyboards.com",
     "country": "us",
     "region": "us"
   },
   {
     "name": "Project Keyboard",
-    "url": "https://www.store.projectkeyboard.com",
+    "url": "https://store.projectkeyboard.com",
     "country": "us",
     "region": "us"
   },
   {
     "name": "Proto[Typist]",
-    "url": "https://www.prototypist.net",
+    "url": "https://prototypist.net",
     "country": "uk",
     "region": "uk"
   },
   {
-    "name": "RamaWorks ",
-    "url": "https://www.ramaworks.store",
-    "country": "au",
-    "region": "oceania"
+    "name": "RamaWorks",
+    "url": "https://ramaworks.store",
+    "country": "australia",
+    "region": "australia"
+  },
+  {
+    "name": "Rainkeebs",
+    "url": "https://rainkeebs.mx",
+    "country": "us",
+    "region": "us"
+  },
+  {
+    "name": "Rebuilt Keyboards",
+    "url": "https://rebultkeyboards.com",
+    "country": "us",
+    "region": "us"
+  },
+  {
+    "name": "Rectangles",
+    "url": "https://rectangles.store",
+    "country": "india",
+    "region": "india"
   },
   {
     "name": "RGBKB",
-    "url": "https://www.www.rgbkb.net",
+    "url": "https://rgbkb.net",
     "country": "us",
     "region": "us"
   },
   {
     "name": "RiftKeys",
-    "url": "https://www.riftkeys.com",
-    "country": "au",
-    "region": "oceania"
+    "url": "https://riftkeys.com",
+    "country": "australia",
+    "region": "australia"
   },
   {
     "name": "RingerKeys",
-    "url": "https://www.ringerkeys.com",
+    "url": "https://ringerkeys.com",
+    "country": "us",
+    "region": "us"
+  },
+  {
+    "name": "RnCables",
+    "url": "https://rncables.com",
+    "country": "hong_kong",
+    "region": "hong_kong"
+  },
+  {
+    "name": "RNDKBD",
+    "url": "https://rndkbd.com",
+    "country": "canada",
+    "region": "canada"
+  },
+  {
+    "name": "Rosecables ",
+    "url": "https://rosecables.com",
     "country": "us",
     "region": "us"
   },
   {
     "name": "Salvun",
-    "url": "https://www.salvun.com",
-    "country": "bg",
-    "region": "europe"
+    "url": "https://salvun.com",
+    "country": "belgium",
+    "region": "belgium"
   },
   {
     "name": "Shockport Keyboards",
-    "url": "https://www.shockport.com",
-    "country": "ca",
+    "url": "https://shockport.com",
+    "country": "canada",
     "region": "canada"
   },
   {
+    "name": "Shopmech",
+    "url": "https://shopmech.com",
+    "country": "us",
+    "region": "us"
+  },
+  {
     "name": "Sidders Keebs",
-    "url": "https://www.sidderskb.co.uk",
+    "url": "https://sidderskb.co.uk",
     "country": "uk",
     "region": "uk"
   },
   {
     "name": "Smokey Plates",
-    "url": "https://www.smokeyplates.eu",
+    "url": "https://smokeyplates.eu",
     "country": "de",
-    "region": "europe"
+    "region": "de"
   },
   {
     "name": "Southpaw Design",
-    "url": "https://www.southpawdesign.net",
+    "url": "https://southpawdesign.net",
     "country": "us",
     "region": "us"
   },
   {
     "name": "Spacecat",
-    "url": "https://www.spacecat.design",
+    "url": "https://spacecat.design",
     "country": "us",
     "region": "us"
   },
   {
     "name": "SplitKB",
-    "url": "https://www.splitkb.com",
-    "country": "nl",
-    "region": "europe"
+    "url": "https://splitkb.com",
+    "country": "netherlands",
+    "region": "netherlands"
   },
   {
-    "name": "StupidFish Designs",
-    "url": "https://www.stupidfish.design",
+    "name": "STACKS",
+    "url": "https://stackskb.com",
+    "country": "india",
+    "region": "india"
+  },
+  {
+    "name": "StayWired Cables",
+    "url": "https://staywiredcables.comPromo Codes →• Jaeyou",
     "country": "us",
     "region": "us"
   },
   {
-    "name": "Summit Cables",
-    "url": "https://www.summitcables.com",
+    "name": "Studio Greenfield",
+    "url": "https://studiogreenfield.net",
+    "country": "kr",
+    "region": "kr"
+  },
+  {
+    "name": "StupidFish Designs",
+    "url": "https://stupidfish.design",
     "country": "us",
     "region": "us"
   },
   {
     "name": "SupeRanked",
-    "url": "https://www.superanked.com",
+    "url": "https://superanked.com",
     "country": "us",
     "region": "us"
   },
   {
     "name": "Swagkeys",
-    "url": "https://www.swagkeys.com",
+    "url": "https://swagkeys.com",
     "country": "kr",
-    "region": "asia"
+    "region": "kr"
   },
   {
     "name": "Switch Couture",
-    "url": "https://www.switchcouture.com",
+    "url": "https://switchcouture.com",
     "country": "us",
     "region": "us"
   },
   {
     "name": "SwitchKeys",
-    "url": "https://www.switchkeys.com.au",
-    "country": "au",
-    "region": "oceania"
+    "url": "https://switchkeys.com.au",
+    "country": "australia",
+    "region": "australia"
   },
   {
     "name": "Switchmod",
-    "url": "https://www.switchmod.net",
+    "url": "https://switchmod.net",
     "country": "us",
     "region": "us"
   },
   {
     "name": "switchTop",
-    "url": "https://www.switchtop.com",
+    "url": "https://switchtop.com",
     "country": "us",
     "region": "us"
   },
   {
     "name": "Tai-Hao Shop",
-    "url": "https://www.shop.tai-hao.com",
-    "country": "tw",
-    "region": "asia"
+    "url": "https://shop.tai-hao.com",
+    "country": "taiwan",
+    "region": "taiwan"
   },
   {
     "name": "Teal Technik",
-    "url": "https://www.tealtechnik.com",
+    "url": "https://tealtechnik.com",
     "country": "us",
     "region": "us"
   },
   {
     "name": "Tex",
-    "url": "https://www.tex.com.tw",
-    "country": "tw",
-    "region": "asia"
+    "url": "https://tex.com.tw",
+    "country": "taiwan",
+    "region": "taiwan"
   },
   {
     "name": "tinkerBOY",
-    "url": "https://www.tinkerboy.xyz",
-    "country": "ph",
-    "region": "asia"
+    "url": "https://tinkerboy.xyz",
+    "country": "philippines",
+    "region": "philippines"
   },
   {
     "name": "The Key Company",
-    "url": "https://www.thekey.company",
+    "url": "https://thekey.company",
     "country": "us",
     "region": "us"
   },
   {
     "name": "ThicThock",
-    "url": "https://www.thicthock.com",
-    "country": "hk",
-    "region": "china"
+    "url": "https://thicthock.com",
+    "country": "hong_kong",
+    "region": "hong_kong"
   },
   {
-    "name": "Treasure",
-    "url": "https://www.treasuretypes.com",
-    "country": "fr",
-    "region": "europe"
-  },
-  {
-    "name": "TyprTools",
-    "url": "https://www.typr.tools",
+    "name": "ThocStock ",
+    "url": "https://thocstock.com",
     "country": "us",
     "region": "us"
   },
   {
+    "name": "Thok",
+    "url": "https://thok.click",
+    "country": "australia",
+    "region": "australia"
+  },
+  {
+    "name": "Treasure",
+    "url": "https://treasuretypes.com",
+    "country": "fr",
+    "region": "fr"
+  },
+  {
+    "name": "TyprTools",
+    "url": "https://typr.toolsPromo Codes →• andy",
+    "country": "us",
+    "region": "us"
+  },
+  {
+    "name": "TX Keyboards",
+    "url": "https://kr.txkeyboards.com",
+    "country": "kr",
+    "region": "kr"
+  },
+  {
     "name": "UK Keycaps",
-    "url": "https://www.ukkeycaps.co.uk",
+    "url": "https://ukkeycaps.co.uk",
     "country": "uk",
     "region": "uk"
   },
   {
     "name": "UNIQEY",
-    "url": "https://www.uniqey.net/en",
+    "url": "https://uniqey.net",
     "country": "de",
-    "region": "europe"
+    "region": "de"
   },
   {
     "name": "Upgrade Keyboards",
-    "url": "https://www.upgradekeyboards.com",
+    "url": "https://upgradekeyboards.com",
     "country": "us",
     "region": "us"
   },
   {
     "name": "VintKeys",
-    "url": "https://www.vintkeys.ca",
-    "country": "ca",
+    "url": "https://vintkeys.ca",
+    "country": "canada",
     "region": "canada"
   },
   {
+    "name": "Vala Supply",
+    "url": "https://vala.supply",
+    "country": "us",
+    "region": "us"
+  },
+  {
     "name": "Wallet Burner Industries",
-    "url": "https://www.walletburner.co",
+    "url": "https://walletburner.co",
     "country": "us",
     "region": "us"
   },
   {
     "name": "WASD Keyboards",
-    "url": "https://www.wasdkeyboards.com",
+    "url": "https://wasdkeyboards.com",
     "country": "us",
     "region": "us"
   },
   {
     "name": "WestM",
-    "url": "https://www.westm.ca",
-    "country": "ca",
+    "url": "https://westm.ca",
+    "country": "canada",
     "region": "canada"
   },
   {
     "name": "Winnja Cables",
-    "url": "https://www.winnja.com",
+    "url": "https://winnja.com",
     "country": "us",
     "region": "us"
   },
   {
     "name": "Wooting",
-    "url": "https://www.wooting.io",
-    "country": "nl",
-    "region": "europe"
+    "url": "https://wooting.io",
+    "country": "netherlands",
+    "region": "netherlands"
   },
   {
     "name": "X-Bows",
-    "url": "https://www.x-bows.com",
+    "url": "https://x-bows.com",
     "country": "uk",
     "region": "uk"
   },
   {
     "name": "YMDKey",
-    "url": "https://www.ymdkey.com",
+    "url": "https://ymdkey.com",
     "country": "cn",
-    "region": "china"
+    "region": "cn"
   },
   {
     "name": "Yushakobo",
-    "url": "https://www.yushakobo.jp",
+    "url": "https://yushakobo.jp",
     "country": "jp",
-    "region": "japan"
+    "region": "jp"
   },
   {
     "name": "Zap Cables",
-    "url": "https://www.zapcables.com",
+    "url": "https://zapcables.com",
     "country": "us",
     "region": "us"
   },
   {
-    "name": "ZealPC ",
-    "url": "https://www.zealpc.net",
-    "country": "ca",
+    "name": "ZealPC",
+    "url": "https://zealpc.net",
+    "country": "canada",
     "region": "canada"
   },
   {
     "name": "zFrontier",
     "url": "https://en.zfrontier.com",
     "country": "cn",
-    "region": "china"
+    "region": "cn"
   }
 ]
