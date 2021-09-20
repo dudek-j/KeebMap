@@ -1084,6 +1084,12 @@
   "region": "europe"
  },
  {
+  "name": "smord",
+  "url": "https://www.smord.store/",
+  "country": "se",
+  "region": "europe"
+ },
+ {
   "name": "sneakbox",
   "url": "https://sneakbox.com",
   "country": "us",
