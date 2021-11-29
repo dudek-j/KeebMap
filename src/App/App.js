@@ -4,7 +4,7 @@ import Mobile from './Mobile';
 import Analytics from '../Services/analytics';
 import { isMobile } from 'react-device-detect';
 
-import { openInNewTab, allValuesFalse } from './Utility';
+import { allValuesFalse } from './Utility';
 
 function App({ data }) {
   const [searchQuery, setSearchQuery] = useState('');
@@ -53,7 +53,6 @@ function App({ data }) {
 
   function onListItemSelcted(item) {
     Analytics.logSelectedItem(item, mapState);
-    openInNewTab(item.url);
   }
 
   function onRegionSelected(region) {

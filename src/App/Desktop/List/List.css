@@ -35,6 +35,10 @@
   margin-top: 0;
 }
 
+.List a:link {
+  text-decoration: none;
+}
+
 .ListItem:hover {
   background-color: #d15f43;
 }
