@@ -35,8 +35,12 @@
   margin-top: 0;
 }
 
-.List a:link {
+.ListItem:link {
   text-decoration: none;
+}
+
+.ListItem:focus {
+  background-color: #d15f43;
 }
 
 .ListItem:hover {

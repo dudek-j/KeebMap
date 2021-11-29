@@ -1,10 +1,10 @@
 function ListItem({ data, onClick, highlightItem }) {
   return (
-    <a href={data.url}>
-      <div
-        onClick={() => onClick && onClick(data)}
-        className={`ListItem ${highlightItem ? 'HighLightItem' : ''}`}
-      >
+    <a
+      href={data.url}
+      className={`ListItem ${highlightItem ? 'HighLightItem' : ''}`}
+    >
+      <div onClick={() => onClick && onClick(data)}>
         {highlightItem ? (
           <div className="HiglightItemDetail">FEATURED</div>
         ) : null}
