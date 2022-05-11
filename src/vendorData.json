@@ -1213,7 +1213,8 @@
   "name": "tastenplatte",
   "url": "https://www.tastenplatte.de/",
   "country": "de",
-  "region": "europe"
+  "region": "europe",
+  "hide": true
  },
  {
   "name": "Teal Technik",
@@ -1265,6 +1266,12 @@
   "url": "https://www.ukkeycaps.co.uk",
   "country": "uk",
   "region": "uk"
+ },
+ {
+  "name": "Unicorn Cables",
+  "url": "https://unicorncables.com",
+  "country": "si",
+  "region": "europe"
  },
  {
   "name": "UNIQEY",
