@@ -512,6 +512,12 @@
   "hide": true
  },
  {
+  "name": "Keebstuff",
+  "url": "https://keebstuff.com",
+  "country": "de",
+  "region": "europe"
+ },
+ {
   "name": "Keebwerk",
   "url": "https://www.keebwerk.com",
   "country": "de",
