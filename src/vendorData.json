@@ -505,6 +505,12 @@
   "region": "us"
  },
  {
+  "name": "Keebstuff",
+  "url": "https://keebstuff.com",
+  "country": "de",
+  "region": "europe"
+ },
+ {
   "name": "KeebSource",
   "url": "https://www.keebsource.com",
   "country": "us",
