@@ -817,6 +817,12 @@
   "region": "us"
  },
  {
+  "name": "Mekanisk",
+  "url": "https://mekanisk.com",
+  "country": "no",
+  "region": "europe"
+ },
+ {
   "name": "Mekibo",
   "url": "https://mekibo.com/",
   "country": "us",
