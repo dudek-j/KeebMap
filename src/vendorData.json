@@ -548,6 +548,12 @@
   "region": "us"
  },
  {
+  "name": "Keyb",
+  "url": "https://keyb.no",
+  "country": "no",
+  "region": "europe"
+ },
+ {
   "name": "Keyboard Co",
   "url": "https://www.keyboardco.com",
   "country": "uk",
@@ -724,12 +730,6 @@
   "url": "https://www.littlekeyboards.com",
   "country": "us",
   "region": "us"
- },
- {
-  "name": "Loob",
-  "url": "https://www.loob.no",
-  "country": "no",
-  "region": "europe"
  },
  {
   "name": "MAKeyboard",
