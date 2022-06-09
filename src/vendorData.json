@@ -1129,7 +1129,8 @@
   "name": "Smokey Plates",
   "url": "https://www.smokeyplates.eu",
   "country": "de",
-  "region": "europe"
+  "region": "europe",
+  "hide": true
  },
  {
   "name": "smord",
