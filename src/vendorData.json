@@ -310,6 +310,12 @@
   "region": "oceania"
  },
  {
+  "name": "FalbaTech",
+  "url": "https://falba.tech",
+  "country": "pl",
+  "region": "europe"
+ },
+ {
   "name": "Fancy Customs",
   "url": "https://www.fancycustoms.com/",
   "country": "cl",
