@@ -79,12 +79,6 @@
   "region": "asia"
  },
  {
-  "name": "Bastard Keyboards",
-  "url": "https://bastardkb.com",
-  "country": "nl",
-  "region": "europe"
- },
- {
   "name": "bear cable co",
   "url": "https://www.bearcables.com/",
   "country": "us",
@@ -308,12 +302,6 @@
   "url": "https://www.esckeyboard.com",
   "country": "au",
   "region": "oceania"
- },
- {
-  "name": "FalbaTech",
-  "url": "https://falba.tech",
-  "country": "pl",
-  "region": "europe"
  },
  {
   "name": "Fancy Customs",
@@ -548,12 +536,6 @@
   "region": "us"
  },
  {
-  "name": "Keyb",
-  "url": "https://keyb.no",
-  "country": "no",
-  "region": "europe"
- },
- {
   "name": "Keyboard Co",
   "url": "https://www.keyboardco.com",
   "country": "uk",
@@ -732,6 +714,12 @@
   "region": "us"
  },
  {
+  "name": "Loob",
+  "url": "https://www.loob.no",
+  "country": "no",
+  "region": "europe"
+ },
+ {
   "name": "MAKeyboard",
   "url": "https://makeyboard.com/",
   "country": "ca",
@@ -823,12 +811,6 @@
   "region": "us"
  },
  {
-  "name": "Mekanisk",
-  "url": "https://mekanisk.com",
-  "country": "no",
-  "region": "europe"
- },
- {
   "name": "Mekibo",
   "url": "https://mekibo.com/",
   "country": "us",
@@ -863,6 +845,12 @@
   "url": "https://www.momoka.co/",
   "country": "cn",
   "region": "china"
+ },
+ {
+  "name": "Monkeyboards",
+  "url": "https://monkeyboards.fr/shop/",
+  "country": "fr",
+  "region": "europe"
  },
  {
   "name": "Monokei",
@@ -1035,12 +1023,6 @@
   "region": "uk"
  },
  {
-  "name": "Qlavier",
-  "url": "https://www.qlavier.com/shop/",
-  "country": "be",
-  "region": "europe"
- },
- {
   "name": "Rainkeebs",
   "url": "https://www.rainkeebs.mx/",
   "country": "us",
@@ -1129,8 +1111,7 @@
   "name": "Smokey Plates",
   "url": "https://www.smokeyplates.eu",
   "country": "de",
-  "region": "europe",
-  "hide": true
+  "region": "europe"
  },
  {
   "name": "smord",
