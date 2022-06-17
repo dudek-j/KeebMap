@@ -146,6 +146,12 @@
   "region": "us"
  },
  {
+  "name": "Centorek",
+  "url": "https://centorek.com/en",
+  "country": "pl",
+  "region": "europe"
+ },
+ {
   "name": "CFTKB",
   "url": "https://www.cftkb.com",
   "country": "us",
