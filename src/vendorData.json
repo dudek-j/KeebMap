@@ -444,6 +444,12 @@
   "region": "oceania"
  },
  {
+  "name": "kablecatalogue",
+  "url": "https://kablecatalogue.com",
+  "country": "uk",
+  "region": "uk"
+ },
+ {
   "name": "kat koil",
   "url": "https://katkoil.com/",
   "country": "fr",
