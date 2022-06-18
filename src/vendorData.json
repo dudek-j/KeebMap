@@ -73,10 +73,22 @@
   "region": "canada"
  },
  {
+  "name": "AVX Works",
+  "url": "https://avxworks.com",
+  "country": "us",
+  "region": "us"
+ },
+ {
   "name": "Basekeys",
   "url": "https://basekeys.jp/en",
   "country": "jp",
   "region": "asia"
+ },
+ {
+  "name": "Bastard Keyboards",
+  "url": "https://bastardkb.com",
+  "country": "nl",
+  "region": "europe"
  },
  {
   "name": "bear cable co",
@@ -138,6 +150,12 @@
   "url": "https://www.cbkbd.com",
   "country": "us",
   "region": "us"
+ },
+ {
+  "name": "Centorek",
+  "url": "https://centorek.com/en",
+  "country": "pl",
+  "region": "europe"
  },
  {
   "name": "CFTKB",
@@ -304,6 +322,12 @@
   "region": "oceania"
  },
  {
+  "name": "FalbaTech",
+  "url": "https://falba.tech",
+  "country": "pl",
+  "region": "europe"
+ },
+ {
   "name": "Fancy Customs",
   "url": "https://www.fancycustoms.com/",
   "country": "cl",
@@ -426,6 +450,12 @@
   "region": "oceania"
  },
  {
+  "name": "kablecatalogue",
+  "url": "https://kablecatalogue.com",
+  "country": "uk",
+  "region": "uk"
+ },
+ {
   "name": "kat koil",
   "url": "https://katkoil.com/",
   "country": "fr",
@@ -536,6 +566,12 @@
   "region": "us"
  },
  {
+  "name": "Keyb",
+  "url": "https://keyb.no",
+  "country": "no",
+  "region": "europe"
+ },
+ {
   "name": "Keyboard Co",
   "url": "https://www.keyboardco.com",
   "country": "uk",
@@ -565,6 +601,12 @@
   "url": "https://www.keycapsss.com",
   "country": "de",
   "region": "europe"
+ },
+ {
+  "name": "KeyCrox",
+  "url": "https://www.keycrox.co.uk",
+  "country": "uk",
+  "region": "uk"
  },
  {
   "name": "Keycult",
@@ -714,12 +756,6 @@
   "region": "us"
  },
  {
-  "name": "Loob",
-  "url": "https://www.loob.no",
-  "country": "no",
-  "region": "europe"
- },
- {
   "name": "MAKeyboard",
   "url": "https://makeyboard.com/",
   "country": "ca",
@@ -799,6 +835,12 @@
   "region": "asia"
  },
  {
+  "name": "MechMods",
+  "url": "https://www.mechmods.co.uk",
+  "country": "uk",
+  "region": "uk"
+ },
+ {
   "name": "Mechs and Co",
   "url": "https://www.mechsandco.com",
   "country": "us",
@@ -809,6 +851,12 @@
   "url": "https://www.mehkee.com",
   "country": "us",
   "region": "us"
+ },
+ {
+  "name": "Mekanisk",
+  "url": "https://mekanisk.com",
+  "country": "no",
+  "region": "europe"
  },
  {
   "name": "Mekibo",
@@ -938,6 +986,12 @@
   "region": "us"
  },
  {
+  "name": "ONEofZERO",
+  "url": "https://oneofzero.net",
+  "country": "ca",
+  "region": "canada"
+ },
+ {
   "name": "Optic Boards",
   "url": "https://www.opticboards.com",
   "country": "uk",
@@ -1021,6 +1075,18 @@
   "url": "https://www.prototypist.net",
   "country": "uk",
   "region": "uk"
+ },
+ {
+  "name": "Qlavier",
+  "url": "https://www.qlavier.com/shop/",
+  "country": "be",
+  "region": "europe"
+ },
+ {
+  "name": "Qoda",
+  "url": "https://qoda.store",
+  "country": "be",
+  "region": "europe"
  },
  {
   "name": "Rainkeebs",
@@ -1111,7 +1177,8 @@
   "name": "Smokey Plates",
   "url": "https://www.smokeyplates.eu",
   "country": "de",
-  "region": "europe"
+  "region": "europe",
+  "hide": true
  },
  {
   "name": "smord",
@@ -1252,6 +1319,12 @@
   "url": "https://www.thekey.company",
   "country": "us",
   "region": "us"
+ },
+ {
+  "name": "The Teleport",
+  "url": "https://www.theteleport.de/en",
+  "country": "de",
+  "region": "europe"
  },
  {
   "name": "ThicThock",
