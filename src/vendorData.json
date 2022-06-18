@@ -73,6 +73,12 @@
   "region": "canada"
  },
  {
+  "name": "AVX Works",
+  "url": "https://avxworks.com",
+  "country": "us",
+  "region": "us"
+ },
+ {
   "name": "Basekeys",
   "url": "https://basekeys.jp/en",
   "country": "jp",
