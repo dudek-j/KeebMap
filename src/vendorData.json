@@ -609,6 +609,12 @@
   "region": "europe"
  },
  {
+  "name": "KeyCrox",
+  "url": "https://www.keycrox.co.uk",
+  "country": "uk",
+  "region": "uk"
+ },
+ {
   "name": "Keycult",
   "url": "https://www.keycult.com",
   "country": "us",
