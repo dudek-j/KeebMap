@@ -19,7 +19,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "deploy": "npm run build && firebase deploy",
-    "edit": "./scripts/vendorEditor/vendorEditor ./src/"
+    "edit": "./script/vendorEditor ./src/"
   },
   "eslintConfig": {
     "extends": [
