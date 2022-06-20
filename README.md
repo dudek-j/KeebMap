@@ -16,6 +16,8 @@ Keebmap tries to help people find custom mechanical keyboard vendors in their re
 
 If you wish to participate in the development of this project, either at the level of programming or to propose changes concerning the list of vendors, please refer to the document [CONTRIBUTING](CONTRIBUTING.md).
 
+If you want to propose changes to the vendor list, but are not comfortable with the Github tool, you can join the [Discord server](https://discord.gg/AxSjtYAHun) and make your proposal in the dedicated channel. However, you will have to wait for a developer to integrate your proposal.
+
 ## TODO
 
 - [ ] Proper mobile support
