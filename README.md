@@ -12,6 +12,10 @@
 
 Keebmap tries to help people find custom mechanical keyboard vendors in their region. It provides a searchable and filterable list of venords in a clean form factor. Visit the site at [keebmap.xyz](https://keebmap.xyz)
 
+## Contributing
+
+If you wish to participate in the development of this project, either at the level of programming or to propose changes concerning the list of vendors, please refer to the document [CONTRIBUTING](CONTRIBUTING.md).
+
 ## TODO
 
 - [ ] Proper mobile support
@@ -26,4 +30,4 @@ Huge thanks to all contributors of this list:
 
 ## Support
 
-If you wish to support further development and feel extra awesome, you can do so [here](paypal.me/keebmap).
+If you wish to support further development and feel extra awesome, you can [make a donation](https://paypal.me/keebmap) through Paypal.
