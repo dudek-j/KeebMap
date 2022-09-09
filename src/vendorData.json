@@ -189,6 +189,12 @@
   "region": "us"
  },
  {
+  "name": "clickeys",
+  "url": "https://clickeys.nl/",
+  "country": "nl",
+  "region": "europe"
+ },
+ {
   "name": "Clueboard",
   "url": "https://www.clueboard.co",
   "country": "us",
