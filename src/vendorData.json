@@ -750,6 +750,12 @@
   "hide": true
  },
  {
+  "name": "Le Clavier",
+  "url": "https://leclavier.shop/",
+  "country": "fr",
+  "region": "europe"
+ },
+ {
   "name": "Let’s Get It",
   "url": "https://www.letsgetit.io",
   "country": "kr",
@@ -1479,11 +1485,5 @@
   "url": "https://zionstudios.ph/",
   "country": "ph",
   "region": "asia"
- },
-  {
-  "name": "Le Clavier",
-  "url": "https://leclavier.shop",
-  "country": "fr",
-  "region": "europe"
  }
 ]
