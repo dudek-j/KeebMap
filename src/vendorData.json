@@ -1479,5 +1479,11 @@
   "url": "https://zionstudios.ph/",
   "country": "ph",
   "region": "asia"
+ },
+  {
+  "name": "Le Clavier",
+  "url": "https://leclavier.shop",
+  "country": "fr",
+  "region": "europe"
  }
 ]
