@@ -10,7 +10,7 @@
     "react": "^17.0.1",
     "react-device-detect": "^1.17.0",
     "react-dom": "^17.0.1",
-    "react-scripts": "4.0.3",
+    "react-scripts": "^5.0.1",
     "web-vitals": "^1.1.0"
   },
   "scripts": {
@@ -28,7 +28,7 @@
     ]
   },
   "engines": {
-    "node" : ">=16.0.0 <17.0.0"
+    "node": ">=20.0.0"
   },
   "browserslist": {
     "production": [
@@ -43,6 +43,6 @@
     ]
   },
   "devDependencies": {
-    "x-ray": "^2.3.4"
+    "x-ray": "^2.3.3"
   }
 }
