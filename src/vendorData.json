@@ -97,6 +97,12 @@
   "region": "us"
  },
  {
+  "name": "BeaverKeys",
+  "url": "https://www.beaverkeys.ca/",
+  "country": "ca",
+  "region": "canada"
+ },
+ {
   "name": "Bespoke Keys",
   "url": "https://bespokekeys.shop/",
   "country": "us",
