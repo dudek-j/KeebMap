@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "./static/css/main.cc7774b0.css",
+    "main.js": "./static/js/main.8512c0be.js",
+    "static/media/GothaProMed.otf": "./static/media/GothaProMed.8e98c9c5fb7e795c47f3.otf",
+    "static/media/GothaProBla.otf": "./static/media/GothaProBla.4333077c71640f3c5087.otf",
+    "static/media/GothaProReg.otf": "./static/media/GothaProReg.db405428a4cf91ba01a6.otf",
+    "index.html": "./index.html",
+    "main.cc7774b0.css.map": "./static/css/main.cc7774b0.css.map",
+    "main.8512c0be.js.map": "./static/js/main.8512c0be.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cc7774b0.css",
+    "static/js/main.8512c0be.js"
+  ]
+}
